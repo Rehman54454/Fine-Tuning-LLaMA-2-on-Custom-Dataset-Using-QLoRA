@@ -1,3 +1,8 @@
+![3](https://github.com/user-attachments/assets/889c99f9-1010-4789-993f-d1802f989d3f)
+![2](https://github.com/user-attachments/assets/d62d98c5-c094-4146-9147-465001207345)
+![1](https://github.com/user-attachments/assets/6ff0d63e-2110-4f4e-82ee-ddc49478c672)
+
+
 # **About the Project:** 🛠️✨
 This repository focuses on fine-tuning the LLaMA 2 model on custom datasets using LoRA and QLoRA techniques for efficient parameter optimization. It provides a robust framework for adapting state-of-the-art language models to specific tasks while significantly reducing computational requirements. With streamlined data preparation, training scripts, and interactive testing features, this project is perfect for customizing large language models (LLMs) to suit your needs. Whether you're working on text generation, classification, or other NLP tasks, this repository has you covered! 🚀📚
 
